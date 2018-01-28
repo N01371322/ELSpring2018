@@ -1,9 +1,9 @@
 # ELSpring2018
-![alt text](https://www.newpaltz.edu/media/identity/logos/newpaltzlogo.jpg width=300 "New Paltz Logo")
+![](https://www.newpaltz.edu/media/identity/logos/newpaltzlogo.jpg width=300)
 
 Spring 2018 Embedded Linux class.
 
-This repository documents the class work and projects done for **_CPS342_**.
+This repository documents the class work and project done for **_CPS342_**.
 
 1. Personal Information:
 
