@@ -1,5 +1,5 @@
 # ELSpring2018
-![alt text](https://www.newpaltz.edu/media/identity/logos/newpaltzlogo.jpg "New Paltz Logo")
+![alt text](https://www.newpaltz.edu/media/identity/logos/newpaltzlogo.jpg|width=300 "New Paltz Logo")
 
 Spring 2018 Embedded Linux class.
 
