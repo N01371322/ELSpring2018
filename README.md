@@ -16,10 +16,10 @@ This repository documents my class work and projects done for **_CPS342_**.
 
 2. ### Class Start Date:
 
-       *Jan 22, 2018*
+       Jan 22, 2018
 
-3. ### Class End Date:
+3. ### Class End Date: 
 
-       *May 8, 2018*
+       May 8, 2018
 
 
