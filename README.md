@@ -6,7 +6,7 @@
 
 This repository documents the class work and project done for **_CPS342_**.
 
-1. ###Personal Information:
+1. ### Personal Information:
 
    Name: Chirakkal Easwaran
    
@@ -14,11 +14,11 @@ This repository documents the class work and project done for **_CPS342_**.
    
    Year: Senior 
 
-2. ###Class Start Date:
+2. ### Class Start Date:
 
    Jan 22, 2018
 
-3. ###Class End Date:
+3. ### Class End Date:
 
    May 8, 2018
 
